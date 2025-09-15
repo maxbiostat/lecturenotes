@@ -22,9 +22,9 @@ inconsistencies that arise between these two formats. For example:
 
 You can view samples of the resulting output here:
 
-1.  [**HTML**](docs/samples/lecturenotes.html)
+1.  [**HTML**](https://grantmcdermott.com/lecturenotes/samples/lecturenotes.html)
 
-2.  [**PDF**](docs/samples/lecturenotes.pdf)
+2.  [**PDF**](https://grantmcdermott.com/lecturenotes/samples/lecturenotes.pdf)
 
 ## Installation and use
 
